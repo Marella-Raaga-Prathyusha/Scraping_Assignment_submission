@@ -1,0 +1,11 @@
+Sample execution format (illustrative; not a claim of a live run):
+
+INFO | Books page 1: https://books.toscrape.com/
+INFO | Books page 2: https://books.toscrape.com/catalogue/page-2.html
+...
+INFO | Quotes page 1: https://quotes.toscrape.com/
+INFO | Quotes page 2: https://quotes.toscrape.com/page/2/
+...
+INFO | Finished: <final record count> final records; <duplicate count> duplicates.
+INFO | CSV: output/final_dataset.csv
+INFO | Summary: output/summary_report.json
